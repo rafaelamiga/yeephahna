@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aihoutiesh.tonstube.de/sitemap.xml
